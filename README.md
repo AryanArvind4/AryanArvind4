@@ -78,17 +78,6 @@ Personalized travel-itinerary generator built for the Perplexity Hackathon
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryanArvind4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanArvind4&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanArvind4&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🎯 Current Focus
 - 🌱 Advancing RL & Bayesian methods  
 - 🔍 Contributing to AI research at NTHU  
