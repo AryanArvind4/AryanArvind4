@@ -1,121 +1,106 @@
-# Hi there, I'm Aryan Arvind Singh! 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+%7C+Research+Enthusiast+%7C+Full-Stack+Developer;Building+Intelligent+Solutions+for+Tomorrow's+Challenges;Passionate+About+Bayesian+Optimization+%26+Reinforcement+Learning" alt="Typing SVG" />
-</div>
-
----
-
-## 🚀 About Me
-Currently pursuing **BS in Electrical Engineering & Computer Science** at **National Tsing Hua University**, Taiwan 🇹🇼  
-
-🔬 **Research Assistant** focused on Bayesian Optimization & Reinforcement Learning  
-💼 **App Development Head** at PYOP, leading mobile-app architecture (details under NDA)  
-🎯 **MOE Taiwan Scholarship** recipient with hands-on AI/ML, NLP & full-stack experience  
-
----
-
-## 🔬 What I'm Working On
-- 🧠 **Research**: Bayesian Optimization & RL for automated hyper-parameter tuning  
-- 🌍 **MovieMood**: AI-driven travel-itinerary generator built for the Perplexity Hackathon  
-- 🤖 Exploring cutting-edge AI applications that bridge theory with real-world impact  
-
----
-
-## 💻 Tech Stack
 <div align="center">
 
-### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=180&text=Aryan%20Arvind%20Singh&fontColor=F8FAFC&fontSize=38&desc=AI%20Engineering%20%2F%20Computer%20Vision%20%2F%20Applied%20Research&descColor=5EEAD4&descSize=16&descAlignY=72" width="100%" alt="Aryan Arvind Singh — AI Engineering, Computer Vision, Applied Research" />
 
-### 📱 Mobile & Web
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### Building AI products. Exploring how machines see.
 
-### 🛠 Languages & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+Lead Software Engineer 1 (AI/ML) at **Camus Technologies**  
+Master’s student at **National Tsing Hua University** · Hsinchu, Taiwan
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=flat-square&labelColor=0F172A&color=0F766E)](https://www.linkedin.com/in/aryan-arvind-singh-8b7524198/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-0F172A?style=flat-square&labelColor=0F172A&color=0F766E)](mailto:aryan010420@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AryanArvind4-0F172A?style=flat-square&labelColor=0F172A&color=0F766E)](https://github.com/AryanArvind4)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## About
+
+I'm **Aryan Arvind Singh (辛恩彥)**, a software engineer and researcher working across production AI, computer vision, and full-stack development. I build LLM-powered product features and modular backends at Camus Technologies, and work on computational imaging at National Taiwan University.
+
+My research spans **3D CT reconstruction**, **X-ray image enhancement**, and **deep learning for shadow and illumination artifact removal**. I’m pursuing an MS at NTHU’s Institute of Information Systems and Applications after completing my BS in Electrical Engineering and Computer Science at NTHU.
+
+## Experience
+
+### Camus Technologies · Taipei
+**Lead Software Engineer 1 (AI/ML)** · Jul 2026 – Present
+
+- Integrate LLMs into a production product through prompt engineering, tool-use design, and prompt caching to reduce API costs.
+- Build and maintain a pluggable backend architecture supporting **28+ product modules** and independent feature development.
+- Implement database-level row-level security and multi-tenant data isolation.
+
+**Software Engineer Intern (AI)** · Mar 2026 – Jul 2026
+
+- Contributed to a clinical imaging pipeline combining a DICOM viewer with AI-assisted radiology reporting.
+- Tested core workflows, investigated system failures, and resolved bugs to improve reliability.
+
+### National Taiwan University · Taipei
+**Undergraduate Research Assistant · Digital Image Processing and Computer Vision Lab**  
+Jun 2025 – Present
+
+- Research SART-based **3D CT reconstruction** and image-processing pipelines for volumetric analysis.
+- Develop **U-Net models** to remove shadows and illumination artifacts from X-ray images for clearer defect analysis.
+
+### National Tsing Hua University · Hsinchu
+**Undergraduate Research Assistant · Design and Analysis of Algorithms Lab**  
+Sep 2024 – Dec 2025
+
+- Designed and deployed **StudyBuddy**, a study-partner matching platform using React, Flask, MongoDB, and cosine-similarity ranking.
+- Built preference-based matching across courses, locations, and availability, with NTHU email access control and deployment on Vercel and Render.
+
+## Selected projects
+
+### DefectQuest
+**Multimodal AI · Computer Vision · Electronics Inspection**
+
+An SMT inspection system that analyses BGA X-ray images for per-ball solder defects. It combines defect localisation, risk scoring, compliance evaluation, root-cause reasoning, and sustainability impact estimation into an end-to-end inspection workflow.
+
+### [ResumeAnalyser](https://github.com/AryanArvind4/resume-analyser)
+**Python · TF-IDF · Scikit-learn · XGBoost**
+
+An NLP pipeline that extracts text from PDF résumés, predicts job categories, and provides skill-based feedback.
+
+### [Fragments of Me](https://github.com/AryanArvind4/fragments-of-me)
+**GPT-4 · Stable Diffusion 2 · Gradio**
+
+An emotion-to-art experience that enriches prompts with GPT-4 and generates symbolic visual interpretations using Stable Diffusion 2.
+
+### [MovieMood](https://github.com/AryanArvind4/movie-mood)
+**React · Node.js · Perplexity Sonar API**
+
+A personalised travel itinerary generator built and deployed for the Perplexity Hackathon, turning user preferences into AI-assisted travel recommendations.
+
+## Toolkit
+
+| Area | Technologies & methods |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, JavaScript, C++, C |
+| **AI & machine learning** | PyTorch, TensorFlow, Scikit-learn, CNNs, RNNs, diffusion models |
+| **Computer vision** | OpenCV, U-Net, segmentation, medical and X-ray imaging, 3D reconstruction |
+| **LLM engineering & NLP** | Prompt engineering, tool-use design, prompt caching, TF-IDF, text preprocessing |
+| **Web & mobile** | React, Flask, Node.js, React Native, Expo, Flutter, Tailwind CSS, NativeWind |
+| **Data & platforms** | MongoDB, Firebase, Pandas, NumPy, Matplotlib, Vercel, Render |
+
+## Education & recognition
+
+**National Tsing Hua University** · Hsinchu, Taiwan
+
+- **MS, Institute of Information Systems and Applications** · Sep 2026 – Present
+- **BS, Electrical Engineering and Computer Science** · Sep 2022 – Jun 2026
+
+**Scholarships & certifications**
+
+- MOE Taiwan Scholarship — Graduate · Sep 2026 – Present
+- MOE Taiwan Scholarship — Undergraduate · Sep 2022 – Jun 2026
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate · Oct 2025
+- Complete AI & Machine Learning, Data Science Bootcamp — Udemy · Sep 2024
+
+---
+
 <div align="center">
 
-### 🤖 [Resume Analyser](https://github.com/AryanArvind4/resume-analyser)  
-AI-powered resume classifier using NLP & ML  
-*Python • TF-IDF • Scikit-learn • XGBoost*
+**Let’s connect around applied AI, computational imaging, and useful software.**  
+[LinkedIn](https://www.linkedin.com/in/aryan-arvind-singh-8b7524198/) · [Email](mailto:aryan010420@gmail.com) · [GitHub](https://github.com/AryanArvind4)
 
----
-
-### 🎨 [Fragments of Me](https://github.com/AryanArvind4/fragments-of-me)  
-Emotion-to-art generator integrating GPT-4 prompt enrichment with Stable Diffusion 2  
-*Python • GPT-4 • Stable Diffusion 2 • Gradio*
-
----
-
-### 🧠 [Dyslexia Detection Tool](https://github.com/AryanArvind4/dyslexia-detection)  
-ML assessment achieving 90 % accuracy on behavioural data  
-*Python • Random Forest • Streamlit*
-
----
-
-### 🌍 [MovieMood](https://github.com/AryanArvind4/movie-mood)  
-Personalized travel-itinerary generator built for the Perplexity Hackathon  
-*Node.js • Express • React + Vite • Tailwind CSS • Perplexity Sonar API*
-
-</div>
-
----
-
-## 🎯 Current Focus
-- 🌱 Advancing RL & Bayesian methods  
-- 🔍 Contributing to AI research at NTHU  
-- 💼 Open to AI/ML internships & collaborations  
-- 🚀 Prototyping next-gen intelligent applications  
-
----
-
-## 🏅 Achievements
-- **MOE Taiwan Scholarship** (2022-26)  
-- **Silver Medal – Football**, NTHU IBP (2024)  
-- **AI & ML Bootcamp**, Udemy (2024)  
-
----
-
-## 📈 Experience Highlights
-**🔬 Research Assistant** @ NTHU (Sep 2024 – Present)  
-- Bayesian Optimization research; built study-partner matching system  
-
-**📱 App Development Head** @ PYOP (Aug 2024 – Present)  
-- Leading mobile-app architecture with React Native & TypeScript  
-
-**📢 Public Relations** @ NTHU FSA (Jun 2024 – Jun 2025)  
-- Managed digital outreach, spearheading social campaigns for 1k+ students  
-
----
-
-## 🌐 Connect With Me
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-arvind-singh-8b7524198/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanArvind4)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan010420@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
