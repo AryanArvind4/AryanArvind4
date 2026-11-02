@@ -26,6 +26,7 @@ My research spans **3D CT reconstruction**, **X-ray image enhancement**, and **d
 ### Camus Technologies · Taipei
 **Lead Software Engineer 1 (AI/ML)** · Jul 2026 – Present
 
+- Deployed and verified a real-time emergency-alert relay for Taipei Metro's passenger information displays under a government contract, with zero-downtime production redeployments during overnight maintenance windows.
 - Integrate LLMs into a production product through prompt engineering, tool-use design, and prompt caching to reduce API costs.
 - Build and maintain a pluggable backend architecture supporting **28+ product modules** and independent feature development.
 - Implement database-level row-level security and multi-tenant data isolation.
